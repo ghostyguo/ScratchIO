@@ -1,0 +1,27 @@
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO20140818\ScratchIO\obj\x86\Debug\ScratchIO.exe
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO20140818\ScratchIO\obj\x86\Debug\ScratchIO.pdb
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO\ScratchIO\bin\Debug\ScratchIO.exe
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO\ScratchIO\bin\Debug\ScratchIO.pdb
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO\ScratchIO\bin\Debug\HtmlAgilityPack.dll
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO\ScratchIO\bin\Debug\HtmlAgilityPack.pdb
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO\ScratchIO\bin\Debug\HtmlAgilityPack.xml
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.HelpForm.resources
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.MainForm.resources
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.exe
+D:\My Documents\Visual Studio 2010\Projects\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.pdb
+C:\Users\ghosty\Desktop\Scratch\Scratch IO\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.exe
+C:\Users\ghosty\Desktop\Scratch\Scratch IO\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.pdb
+C:\Users\ghosty\Desktop\Scratch\Scratch IO\ScratchIO\ScratchIO\bin\Debug\ScratchIO.exe
+C:\Users\ghosty\Desktop\Scratch\Scratch IO\ScratchIO\ScratchIO\bin\Debug\ScratchIO.pdb
+C:\Users\ghosty\Desktop\Scratch\Scratch IO\ScratchIO\ScratchIO\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ghosty\Desktop\Scratch\Scratch IO\ScratchIO\ScratchIO\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ghosty\Desktop\Scratch\Scratch IO\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.csprojResolveAssemblyReference.cache
+C:\Users\ghosty\Desktop\Scratch\Scratch IO\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.HelpForm.resources
+C:\Users\ghosty\Desktop\Scratch\Scratch IO\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.MainForm.resources
+C:\Users\ghosty\Desktop\Scratch\Scratch IO\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.Properties.Resources.resources
+C:\Users\ghosty\Desktop\Scratch\Scratch IO\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.csproj.GenerateResource.Cache
+D:\Scratch\Scratch IO\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.exe
+D:\Scratch\Scratch IO\ScratchIO\ScratchIO\obj\x86\Debug\ScratchIO.pdb
